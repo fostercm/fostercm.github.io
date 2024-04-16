@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cole Foster / Site Title"
+title                    : "Cole Foster"
 title_separator          : "-"
 name                     : &name "Cole Foster"
-description              : &description "personal description"
+description              : &description "Foote Fellow, President's Scholar, and Singer Scholar at the University of Miami College of Arts and Sciences Majoring in Computer Science, Computational Mathematics, and Neuroscience"
 url                      : https://fostercm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fostercm/fostercm.github.io"
