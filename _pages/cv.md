@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-=====
+-----
 * B.S. in Computer Science, Computational Mathematics, and Neuroscience  2026 (expected)
 * 4.0 GPA
 * President’s Honor Roll
@@ -42,7 +42,7 @@ Education
   
 
 Work experience
-=====
+-----
 * November 2023 – Present: Computational Researcher at the Wuchty Lab, Department of Computer Science, University of Miami
   * Developed a graph compression algorithm that reduced an interaction network of nearly 10 thousand proteins by over 20%
   * Designed and implemented a new approach to calculating vector embeddings for mathematical graphs to be used in graph neural networks resulting in a 90% increase in calculation speed
@@ -59,7 +59,7 @@ Work experience
   * Delivered research findings to industry experts at a local conference, garnering recognition for impactful contributions
   
 Skills
-=====
+-----
 * Python (3 years)
   * Pytorch
   * Scikit-learn
@@ -79,7 +79,7 @@ Skills
   * caret
 
 Interests
-=====
+-----
 * Climbing
 * Hikings
 * SciFi
@@ -92,5 +92,5 @@ Interests
 * Gaming
 
 Publications
-=====
+-----
 Stay Tuned!
