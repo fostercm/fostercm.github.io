@@ -32,7 +32,7 @@ Work experience
   
 Skills
 ======
-* Python 
+* Python (3 years)
   * Pytorch
   * Scikit-learn
   * NumPy
@@ -40,30 +40,32 @@ Skills
   * Matplotlib
   * Scipy
   * Pytorch_Geometric
-* Java
-* MATLAB
+* Java (2 years)
+* MATLAB (2 years)
   * Image Processing Toolbox
   * Machine Learning Toolbox
   * Bioinformatics Toolbox
+* R (2 years)
+  * dplyr
+  * ggplot2
+  * caret
+
+Interests
+======
+* Climbing
+* Hikings
+* SciFi
+* Robotics
+* Football
+* Basketball
+* Cooking
+* Jazz
+* Animation
+* Gaming
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+Stay Tuned!
+  <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
