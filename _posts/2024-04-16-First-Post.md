@@ -1,7 +1,7 @@
 ---
 title: 'First Post!'
 date: 2024-04-16
-permalink: /posts/2024/04/First Post!/
+permalink: /posts/First Post/
 tags:
 - First Post
 ---
