@@ -11,7 +11,35 @@ redirect_from:
 
 Education
 =====
-* B.S. in Neuroscience, Computer Science, and Computational Mathematics, 2026 (expected)
+* B.S. in Computer Science, Computational Mathematics, and Neuroscience  2026 (expected)
+* 4.0 GPA
+* President’s Honor Roll
+* Provost’s Honor Roll
+* Dean's List
+* Singer Scholar
+* Foote Fellow
+* Relevant Coursework:
+  * Machine Learning (Graduate Level)
+  * Statistical Learning (Graduate Level)
+  * Linear Algebra (Graduate Level)
+  * Abstract Algebra
+  * Advanced Calculus
+  * Calculus (I,II,III)
+  * Probability and Statistics
+  * Computer Organization and Architecture
+  * Data Structures and Algorithms
+  * Quantum Computing
+  * GPU Programming
+  * Physics (I,II)
+  * Computer Programming (I,II)
+  * Neural Mechanics
+  * Neurobiology
+  * Genetics
+  * Psychology
+  * Cellular & Molecular Biology
+  * Organic Chemistry (I,II)
+  * General Chemistry
+  
 
 Work experience
 =====
