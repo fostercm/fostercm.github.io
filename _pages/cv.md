@@ -15,10 +15,10 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2023 – Present: Wuchty Lab, Department of Computer Science, University of Miami
+  * Developed a graph compression algorithm that reduced an interaction network of nearly 10 thousand proteins by over 20%
+  * Designed and implemented a new approach to calculating vector embeddings for mathematical graphs to be used in graph neural networks resulting in a 90% increase in calculation speed
+  * Applied supernode results from graph compression to DNA morphology to investigate relationships between gene location and protein interactions
 
 * Fall 2015: Research Assistant
   * Github University
