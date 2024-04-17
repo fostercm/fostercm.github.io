@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Cole Foster"
 title_separator          : "-"
-name                     : &name "Cole Foster"
+name                     : &name "Cole Foster's Home Page"
 description              : &description "Cole Foster's Personal Website"
 url                      : https://fostercm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
