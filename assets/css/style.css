@@ -1,20 +1,3 @@
-.card-reveal {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  padding-bottom: 20px; /* Ensures space at the bottom */
-}
-
-.card-reveal ul {
-  flex-grow: 1; /* Makes the list take up available space */
-  margin-bottom: 20px; /* Adds spacing between the list and the icons */
-}
-
-.card-action {
-  margin-top: auto; /* Pushes the icons to the bottom */
-  text-align: center; /* Centers the icons */
-}
-
 .profile-pic {
   position: relative;
   max-width:130px;
