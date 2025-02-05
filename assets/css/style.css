@@ -1,16 +1,16 @@
 .card-reveal {
-    position: relative;
-    max-height: 300px;  /* Adjust height based on your design */
-    overflow-y: auto;   /* Makes the content scrollable */
-    padding-bottom: 50px; /* Ensure spacing for action buttons */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Pushes the action buttons to the bottom */
+  height: 100%; /* Ensures the container takes full height */
+}
+
+.card-reveal ul {
+  flex-grow: 1; /* Allows the list to take up available space */
 }
 
 .card-action {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    background: white; /* Ensure visibility */
-    padding: 10px; /* Adjust padding as needed */
+  margin-top: auto; /* Pushes the icons to the bottom */
 }
 
 .profile-pic {
